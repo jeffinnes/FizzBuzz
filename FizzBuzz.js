@@ -29,6 +29,10 @@ for (let i = 1; i < 101; i++) {
     
 }
 
+
+
+// Really hacky way to check my answer. #notproud
+
 if ( answer.length === answerKey.length ) {
 
     console.log('answer  -  answerKey');
